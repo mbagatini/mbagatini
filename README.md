@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
-<!--
-**mbagatini/mbagatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h1><b>Hi there, I'm Morgana 👋</b></h1>
+</p>
 
-Here are some ideas to get you started:
+### 💁‍♀️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Engineer with 4+ years of experience with JavaScript and their frameworks - React, Next.js, Node.js - leveraging these modern technologies to build high-performance web applications. Committed to improving user satisfaction by working closely with UX and product teams, building inclusive and user-centric applications. 💖
+
+---
+
+### 📈 GitHub stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbagatini&show_icons=true&locale=en&layout=compact" alt="mbagatini" />
+</p>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbagatini&" alt="mbagatini" />
+<img src="https://github-readme-stats.vercel.app/api?username=mbagatini&show_icons=true&locale=en" alt="mbagatini" />
+</p>
+
+---
+
+### 🤝 Get in touch
+
+- 📫 How to reach me **morganabagatini@gmail.com**
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/morganabagatini/)
+  
