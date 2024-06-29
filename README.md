@@ -20,9 +20,21 @@ Full Stack Engineer with 4+ years of experience with JavaScript and their framew
 </p>
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbagatini&" alt="mbagatini" />
+</p>
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mbagatini&show_icons=true&locale=en" alt="mbagatini" />
 </p>
 
+---
+
+### ⛱️ Fun facts
+
+- I love 🐶
+- Outdoor activities to relax are the best 🏕️
+- Trying to develop the habit of reading daily 📚
+- Learning Italian 🇮🇹
+- I'm into cooking and watching cooking YouTube channels 👩‍🍳
+  
 ---
 
 ### 🤝 Get in touch
